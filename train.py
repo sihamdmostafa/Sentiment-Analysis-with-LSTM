@@ -12,7 +12,6 @@ else:
 
 def train(net,train_loader,valid_loader,test_loader,criterion,optimizer):
     epochs = 4 
-
     counter = 0
     print_every = 100
     clip=5 
