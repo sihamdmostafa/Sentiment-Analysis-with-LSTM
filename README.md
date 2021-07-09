@@ -1,5 +1,5 @@
 # Sentiment-Analysis-with-an-RNN
-In this repository, we will implement a recurrent neural network that performs sentiment analysis.
+In this repository, we implement a recurrent neural network that performs sentiment analysis.
 
 Here we'll use a dataset of movie reviews, accompanied by sentiment labels: positive or negative.
 
